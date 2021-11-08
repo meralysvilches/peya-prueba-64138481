@@ -1,0 +1,13 @@
+.user__section{
+    order: 2;
+}
+
+.user__section p {
+    margin-bottom: 4px;
+}
+
+@media (max-width: 480px) {
+    .user__section{
+        order: 1;
+    }
+}

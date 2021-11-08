@@ -1,0 +1,9 @@
+.profile__aside{
+    order: 1;
+}
+
+@media (max-width: 480px) {
+    .profile__aside{
+        order: 2;
+    }
+}

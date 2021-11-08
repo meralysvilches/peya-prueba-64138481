@@ -1,0 +1,17 @@
+{
+    "name":"Juan",
+    "profile": "../assets/user.svg",
+    "lastName":"Perez",
+    "citizenship":"Uruguaya",
+    "birthDate": "01/10/1996",
+    "education":"Carrera X en Univesidad Y",
+    "workinExperience": [
+        {"fromTo": "2018-2020","enterprise": "Empresa 1"},
+        {"fromTo": "2020-2020","enterprise": "Empresa 1"}
+    ],
+    "courses": [
+        {"name": "Curso 1","academy": "Acadeamia 1"},
+        {"name": "Curso 2","academy": "Acadeamia 2"}
+    ],
+    "languages": ["Ingles","Spanish"]
+}
