@@ -1,0 +1,8 @@
+.picture__container{
+    display: flex;
+    justify-content: center;
+}
+
+.profile_picture{
+    width: 150px;
+}
